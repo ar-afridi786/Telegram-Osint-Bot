@@ -1,0 +1,11 @@
+# Telegram Bot Library
+python-telegram-bot
+
+# For making HTTP requests to other APIs
+requests
+
+# To load environment variables from a .env file for local testing
+python-dotenv
+
+# If your bot interacts with a database (example: PostgreSQL)
+psycopg2-binary
